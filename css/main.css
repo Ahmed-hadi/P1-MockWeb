@@ -1,0 +1,40 @@
+/* Enter your custom CSS here */
+body {
+font: 15px/2.6 "Lucida Grande", sans-serif;
+color: #666666;
+}
+
+.box {
+margin-top: 25px;
+padding: 30px 50px 30px 30px;
+border: 1px solid #cccccc;
+width: auto;
+height: auto;
+}
+
+.padding {
+padding-top: 15px;
+line-height:200%;
+}
+
+p {
+font-size: 16px;
+margin-left: 4px;
+margin-right: 0px;
+line-height: 2;
+padding-top: 5px;
+}
+
+h1 {
+font: 100%/2.0 "Lucida Grande", sans-serif;
+font-size: 50px;
+text-indent: 240px;
+}
+
+h2 {
+color:#f07c17;
+font-size: 25px;
+text-align: left;
+margin-top: 1px;
+font-weight: bold;
+}
